@@ -1,0 +1,13 @@
+Windows Commands:
+cd -> current directory command
+cd "path_to_folder" -> move your current directory to a specific directory
+cd .. ->  go back a directory
+dir -> look all the files and folders on your current directory
+cls -> clear screen
+
+Linux/MacOS Commands:
+pwd -> current directory command
+cd "path_to_folder" -> move your current directory to a specific directory
+cd .. ->  go back a directory
+ls -> look all the files and folders on your current directory
+clear -> clear screen
